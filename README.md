@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+TravelBlog-Project ✈
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+Sri Lanka is the best travel destination to study buddhist culture. In addition , you can experience a lot of things in srilanka including water sports, beautiful beaches, their rural culture, UNESCO World Heritage Sites and amazing landscapes.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+If you are visiting Sri Lanka, the amazing Archaeological ruins of Sri Lanka will allow you to go back over 2500 years of history. Anuradhapura, Polonnaruwa, Kandy, Nuwara Eliya, Southern Province are the best cities to visit in Sri Lanka. These cities are home to archeological ruins & buddhist culture of Sri Lanka.
 
-### `npm run build`
+Sri Lanka also has a national park system of wild elephants and you must visit Yala, Kumana and Udawalawe for a safari experience.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Another reason why many tourists visit Sri Lanka is because of the beautiful coral reefs that exist in Sri Lanka. Nilaveli, Hikkaduwa, Unawatuna Beaches are a great places to relax your mood and soak up the sunshine.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Also, if you vist Sri Lanka, do not forget to have a hot cup of Nuwara Eliya tea that the best tea in the world market.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![travel](https://user-images.githubusercontent.com/86104487/145807078-42c49329-3a02-4591-97f2-85bc376d14ba.jpg)
