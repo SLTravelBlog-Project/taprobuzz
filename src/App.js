@@ -11,7 +11,7 @@ import AboutUs from './pages/aboutUs';
 import ContactUs from './pages/contactUs';
 
 
-import Footer from './Components/Footer';
+import Footer from './Components/Footer/Footer';
 
 function App() {
 return (
