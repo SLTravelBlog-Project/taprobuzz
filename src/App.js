@@ -1,11 +1,4 @@
 import React from 'react';
-
-import Footer from './components/Footer';
-function App() {
-return (
-	<Footer />
-);
-
 import './App.css';
 import Navbar from './Components/NavBar';
 import { BrowserRouter as Router, Route, Routes} from 'react-router-dom';
@@ -16,6 +9,9 @@ import Hotels  from './pages/hotels';
 import Gallery from './pages/gallery';
 import AboutUs from './pages/aboutUs';
 import ContactUs from './pages/contactUs';
+
+
+import Footer from './Components/Footer';
 
 function App() {
 return (
@@ -30,12 +26,13 @@ return (
 		<Route path='/aboutUs' component={AboutUs} />
 		<Route path='/contactUs' component={ContactUs} />
 	</Routes>
+	<Footer />
 	</Router>
+	
 );
 
 
 }
 
+
 export default App;
-
-
