@@ -1,4 +1,11 @@
 import React from 'react';
+
+import Footer from './components/Footer';
+function App() {
+return (
+	<Footer />
+);
+
 import './App.css';
 import Navbar from './Components/NavBar';
 import { BrowserRouter as Router, Route, Routes} from 'react-router-dom';
@@ -26,6 +33,9 @@ return (
 	</Router>
 );
 
+
 }
 
 export default App;
+
+
