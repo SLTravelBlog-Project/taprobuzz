@@ -1,27 +1,31 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+import Navbar from './Components/NavBar';
+import { BrowserRouter as Router, Route, Routes} from 'react-router-dom';
+import Home from './pages';
+import Articals from './pages/articals';
+import Things from './pages/things';
+import Hotels  from './pages/hotels';
+import Gallery from './pages/gallery';
+import AboutUs from './pages/aboutUs';
+import ContactUs from './pages/contactUs';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+return (
+	<Router>
+	<Navbar />
+	<Routes>
+		<Route path='/' exact component={Home} />
+		<Route path='/articals' component={Articals} />
+		<Route path='/things' component={Things} />
+		<Route path='/hotels' component={Hotels } />
+		<Route path='/gallery' component={Gallery} />
+		<Route path='/aboutUs' component={AboutUs} />
+		<Route path='/contactUs' component={ContactUs} />
+	</Routes>
+	</Router>
+);
 
-  //new commit
 }
 
 export default App;
