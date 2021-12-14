@@ -5,11 +5,11 @@ padding: 50px 70px;
 background:#97CE77 ;
 position: absolute;
 bottom: 0;
-width: 92.2%;
+width:100%;
 
 
 @media (max-width: 1000px) {
-	padding: 70px 30px;
+	padding: 50px 20px;
 }
 `;
 
@@ -50,6 +50,7 @@ margin-bottom: 20px;
 font-size: 18px;
 text-decoration: none;
 
+
 &:hover {
 	color: black;
 	transition: 200ms ease-in;
@@ -61,6 +62,8 @@ font-size: 24px;
 color: #3e9b39;
 margin-bottom: 40px;
 font-weight: bold;
+
+
 `;
 
 export const linkItem = styled.p`

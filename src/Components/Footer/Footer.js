@@ -19,13 +19,14 @@ return (
                 color: "black",
                 fontFamily:"cursive",
 				textAlign: "center",
-				marginTop: "-10px" }}>
+				marginTop: "0px" }}>
 		Taprobuzz : For Explore Sri Lanka ..
-
+		<br/>
 	</h1>
 	<Container>
-        
+	<br/>
 		<Row>
+		
 		<Column>
 			
             <Heading>Services</Heading>
@@ -44,24 +45,18 @@ return (
 		</Column>
 
         <Column>
-			<Heading>JOIN US</Heading>
+			<Heading>Join Us</Heading>
 			<FooterLink href="#">Tenders</FooterLink>
 			<FooterLink href="#">Complaints</FooterLink>
 			<FooterLink href="#">Subscribe</FooterLink>
-		
 			
-
-
-
-
 		</Column>
-
-
+		
         <FooterLink >
        <br/>
        <div class="social-media-icons">
            
-           <span style={{ marginLeft:"100px",
+           <span style={{ marginRight:'10px',
                           paddingTop: '50px',
                           }}>
 							  
@@ -80,7 +75,7 @@ return (
 
             <div class="linkItem1">
                 <p>© 2021 All Rights Reserved by Sri Lanka Taprobuzz Team .</p>
-            </div>
+            </div><br/>
             <div class="linkItem2">
                 <a>Privacy Policy  ,  </a>
                 <a>Terms &amp; Conditions</a>
