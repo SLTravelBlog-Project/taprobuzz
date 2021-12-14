@@ -1,0 +1,36 @@
+.linkItem1{
+    margin: auto;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.linkItem2{
+
+    padding-left: 37%;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.social-media-icons{
+
+    margin-left: 50px;
+    padding-top: 0px  50px,
+    
+}
+
+.Column{
+
+    margin-left: 1000px;
+}
+
+.number{
+
+    cursor: pointer;
+}
+.hr{
+
+    width: 0px;
+    color: rgb(83, 83, 61);
+}
