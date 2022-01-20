@@ -10,20 +10,22 @@ import {
     NavLinks
 } from './NavbarElements';
 
-const Navbar = () => {
+import './index.css'
+
+const Navbar = ({toggle}) => {
     return (
         <>
          <Nav>
-            <NavbarContainer>
+            <NavbarContainer className='my-navbar'>
                 <NavLogo to='/'>Taprobuzz</NavLogo>
-                <MobileIcon>
+                <MobileIcon  onClick={toggle}>
                     <FaBars/>
                 </MobileIcon>
 
-             
+            
              <NavMenu>
                 <NavItem>
-                 <NavLinks to="/articals" >Articals</NavLinks>
+                 <NavLinks to="/articals" >Articles</NavLinks>
                 </NavItem>
                 <NavItem>
                  <NavLinks to="/things" >Things To Do In Sri Lanka</NavLinks>
@@ -41,7 +43,7 @@ const Navbar = () => {
                  <NavLinks to="/Contact" >Contact Us</NavLinks>
                 </NavItem> 
               </NavMenu>
-             </NavbarContainer>
+              </NavbarContainer>
          </Nav>
         </>
     )

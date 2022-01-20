@@ -1,0 +1,8 @@
+.hero {
+    height: 100vh !important;
+}
+
+.hero-content {
+    display: grid !important;
+    row-gap: 25px;
+}
