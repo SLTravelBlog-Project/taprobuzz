@@ -1,5 +1,6 @@
 import React, {useState} from 'react';
 import Videos from '../../Videos/homeVideo.mp4';
+import Footer from "../Footer/Footer";
 import {
     HeroContainer,
     HeroBg,
@@ -41,7 +42,9 @@ const HeroSection = () => {
                     </Button>
                 </HeroBtnWrapper>
             </HeroContent>
+            <Footer/>
         </HeroContainer>
+        
     )
 }
 
